@@ -68,5 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# belajar todo-app
+
 # simple-reactjs-todo-app
+
+aplikasi ini dibuat dari pembelajaran reactjs yang saya dapatkan dari sumber sakukode: https://github.com/sakukode/react-simple-todo-app
