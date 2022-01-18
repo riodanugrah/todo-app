@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Hit the gym",
+      "done": false
+    },
+    {
+      "title": "Pay bills",
+      "done": false,
+      "id": 2
+    },
+    {
+      "title": "Mengowcok",
+      "done": true,
+      "id": 3
+    },
+    {
+      "title": "Sruc-sruc",
+      "done": false,
+      "id": 4
+    },
+    {
+      "title": "Punchline Arrived",
+      "done": false,
+      "id": 5
+    },
+    {
+      "title": "How",
+      "done": false,
+      "id": 6
+    },
+    {
+      "title": "Lost smartphone",
+      "done": false,
+      "id": 7
+    }
+  ]
+}
